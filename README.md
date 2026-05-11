@@ -253,7 +253,7 @@ body{
     <div class="card">
         <img class="thumbnail" src="pir.jpg">
         <div class="info">
-            <div class="title">Beautiful cinematic video interface design</div>
+            <div class="title">meer step pirazhn and make her 7izz</div>
             <div class="meta">2.3M views • 3 days ago</div>
         </div>
     </div>
@@ -261,7 +261,7 @@ body{
     <div class="card">
         <img class="thumbnail" src="srb.jpg">
         <div class="info">
-            <div class="title">Funny cat reaction compilation</div>
+            <div class="title">meer and milfs in serbia</div>
             <div class="meta">875K views • 1 week ago</div>
         </div>
     </div>
@@ -269,7 +269,7 @@ body{
     <div class="card">
         <img class="thumbnail" src="ludo.jpg">
         <div class="info">
-            <div class="title">Modern mobile streaming platform UI</div>
+            <div class="title">meer step ludo</div>
             <div class="meta">4.1M views • 6 hours ago</div>
         </div>
     </div>
