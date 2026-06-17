@@ -251,7 +251,7 @@ body{
 <div class="feed">
 
     <div class="card">
-        <img class="thumbnail" src="rk.jpg">
+        <img class="thumbnail" src="IMG_6451.png">
         <div class="info">
             <div class="title">injoy with meer.hub</div>
             <div class="meta">2.3M views • 3 days ago</div>
